@@ -1,0 +1,6 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\bin\Debug\entitylayer.dll
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\bin\Debug\entitylayer.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\obj\Debug\entitylayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\obj\Debug\entitylayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\obj\Debug\entitylayer.dll
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\katman\entitylayer\obj\Debug\entitylayer.pdb
